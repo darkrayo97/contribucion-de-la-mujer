@@ -1,7 +1,7 @@
 # contribucion de la mujer
 en este proyecto estudiarememos la contribucion de la mujer a la computacion
 # contenido
-- [hedy lamar](hedyLamar.md)(https://github.com/darkrayo97/contribucion-de-la-mujer/files/9696009/hedyLamar.md)
+- [hedy lamar](hedyLamar.md)
 - marie curie
 - margarita salas
 # referencias
