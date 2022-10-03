@@ -4,6 +4,7 @@ en este proyecto estudiarememos la contribucion de la mujer a la computacion
 - [hedy lamar](hedyLamar.md)
 - marie curie
 - margarita salas
+`ipconfig`
 # referencias
 [wikipedia]https://www.wikipedia.org/
 # licencias
