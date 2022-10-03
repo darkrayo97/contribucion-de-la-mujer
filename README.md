@@ -4,8 +4,7 @@ en este proyecto estudiarememos la contribucion de la mujer a la computacion
 - hedy lamar
 - marie curie
 - margarita salas
-
-##referencias
+#referencias
 
 [wikipedia]https://www.wikipedia.org/
 
