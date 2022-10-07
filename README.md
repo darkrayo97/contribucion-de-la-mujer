@@ -1,2 +1,2 @@
 # contribucion-de-la-mujer
-[hedy lamar](hedylamar.md)
+[hedy lamar](contribucion-de-la-mujer/hedyLamar.md)
