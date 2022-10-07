@@ -2,4 +2,4 @@
 [hedy lamar](hedyLamar.md)
 
 licencia
-![Captura.PNG]
+![image](Captura.PNG)
