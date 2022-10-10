@@ -1,5 +1,6 @@
-# contribucion-de-la-mujer
-en este proyecto vamos a habla de la contribucion de la mujer a la ciencia
+# contribucion de la mujer a la computacion
+
+en este proyecto vamos a hablar de la contribucion de la mujer a la computacion y sus historias
 
 - [hedy lamar](hedyLamar.md)
 
