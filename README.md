@@ -3,7 +3,7 @@
 
 [radia joy perlman](radia.md)
 
-[joan.md]
+[joan clarke](joan.md)
 
 ## licencia
 ![image](Captura.PNG)
