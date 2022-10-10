@@ -11,7 +11,7 @@ en este proyecto vamos a habla de la contribucion de la mujer a la ciencia
 
 ## mujer influencer de la tecgnologia en españa
 
-- [rosa maria garcia]
+- [rosa maria garcia](rosa.md)
 
 ## referencias
 
