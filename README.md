@@ -1,15 +1,21 @@
 # contribucion-de-la-mujer
-[hedy lamar](hedyLamar.md)
+en este proyecto vamos a habla de la contribucion de la mujer a la ciencia
 
-[radia joy perlman](radia.md)
+- [hedy lamar](hedyLamar.md)
 
-[joan clarke](joan.md)
+- [radia joy perlman](radia.md)
 
-[grace murray](grace.md)
+- [joan clarke](joan.md)
+
+- [grace murray](grace.md)
 
 ## mujer influencer de la tecgnologia en españa
 
-[rosa maria garcia]
+- [rosa maria garcia]
+
+## referencias
+
+- [wikipedia](https://es.wikipedia.org/)
 
 ## licencia
 ![image](Captura.PNG)
