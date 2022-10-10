@@ -10,7 +10,7 @@ en este proyecto vamos a hablar de la contribucion de la mujer a la computacion 
 
 - [grace murray](grace.md)
 
-## mujer influencer de la tecgnologia en españa
+## mujer influencer de la tecnologia en españa
 
 - [rosa maria garcia](rosa.md)
 
